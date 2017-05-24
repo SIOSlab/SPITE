@@ -8,7 +8,7 @@ function [PwMsini,PwMass] = ExoplanetTableReader
 %data is saved into PwMass if the true mass of the exoplanet is known and
 %PwMsini if only msin(i) is known.
 
-P = readtable('EODData.csv');
+P = readtable('planets.csv');
 [m,n] = size(P);        %Calculate the Size of the Table
 
 P = table2cell(P);      %Convert the Table to Cell Format
