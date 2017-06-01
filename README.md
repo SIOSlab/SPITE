@@ -1,6 +1,6 @@
 # SPITE
 
-Simulation for Prioritization if Imaging Theoretical Exoplanets
+Simulation for Prioritization of Imaging Theoretical Exoplanets
 
 Created and written by Willard Guy Andrews IV and Daniel Jazlan Wilentz with contributions by Dmitry Savransky
 
